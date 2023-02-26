@@ -5,6 +5,7 @@ using namespace std;
 /********************Note from Prashant Shishodia***********************/
 // This program finds a stable matching between n girls and boys
 // The algorithm description can be found on http://cse.iitkgp.ac.in/~palash/Courses/2019AlgorithmicGameTheory/Files/2019AlgorithmicGameTheoryLectureNotes.pdf
+// Refer Section : 11.1 Stable Matching
 // This program was developed one night before our Game Theory Exam
 // Because we were motivated by the fact that we could understand this section but everything else
 // And the motivation that all we need is n girls to get laid no matter how ugly we're
@@ -14,7 +15,7 @@ using namespace std;
 
 /****************Note from Sanket Mesharam******************/
 //This algorithm enabled Prashant Shishodia to get relief from his singlehood 
-// (not denying the fact how ugly he is), and finally got laid. His hand must be having a
+// (not denying the fact how ugly he is), and finally get laid. His hand must be having a
 // sigh of relief right now. What are you waiting for ? 
 
 int main(){
